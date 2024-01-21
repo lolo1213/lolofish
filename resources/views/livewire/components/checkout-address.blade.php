@@ -28,7 +28,7 @@
             </div>
 
             <div>
-                <x-input.group label="Company name"
+                <x-input.group label="Heavens.MY"
                                :errors="$errors->get('address.company_name')"
                                required>
                     <x-input.text wire:model.defer="address.company_name"

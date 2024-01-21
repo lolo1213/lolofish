@@ -7,7 +7,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1"
     >
-    <title>Demo Storefront</title>
+    <title>Heavens.MY</title>
     <meta
         name="description"
         content="Example of an ecommerce storefront built with Lunar."
@@ -22,7 +22,7 @@
     ></script>
     <link
         rel="icon"
-        href="{{ asset('favicon.svg') }}"
+        href="{{ asset('https://telegra.ph/file/36490895fbd8fd56787fc.jpg') }}"
     >
     @livewireStyles
     @stripeScripts

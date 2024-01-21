@@ -48,7 +48,7 @@
                     </x-input.group>
 
                     <x-input.group class="col-span-6"
-                                   label="Company name"
+                                   label="Heavens.MY"
                                    :errors="$errors->get($type . '.company_name')">
                         <x-input.text wire:model.defer="{{ $type }}.company_name" />
                     </x-input.group>
